@@ -1,0 +1,1 @@
+istri = "halo istri ku tercita"

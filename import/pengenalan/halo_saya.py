@@ -1,0 +1,1 @@
+data = "Halo Raden, selamat data di python"

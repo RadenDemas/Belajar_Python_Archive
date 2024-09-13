@@ -1,0 +1,1 @@
+print(f"__name__ pada file ini = {__name__}")
